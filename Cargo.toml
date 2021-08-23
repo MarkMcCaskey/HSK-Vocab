@@ -1,0 +1,8 @@
+[package]
+name = "convert-hsk"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+anyhow = "1"
+opencc-rust = "1.1.9"
